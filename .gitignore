@@ -27,3 +27,10 @@ uploads/
 
 # Ignore logs
 *.log
+
+# Ignore Python version file
+.python-version
+
+# Ignore TOML and lock files
+*.toml
+*.lock
