@@ -8,3 +8,22 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+.venv/
+
+# Ignore environment variables
+.env
+
+# Ignore uploads (IMPORTANT)
+uploads/
+
+# Ignore system files
+.DS_Store
+
+# Ignore logs
+*.log
