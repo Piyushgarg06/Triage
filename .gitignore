@@ -34,3 +34,5 @@ uploads/
 # Ignore TOML and lock files
 *.toml
 *.lock
+.env
+__init__.py
